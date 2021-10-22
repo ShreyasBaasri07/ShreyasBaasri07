@@ -39,11 +39,9 @@
 
   
   
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ShreyasBaasri07&count_private=true&show_icons=true&theme=radical&line_height=33)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasBaasri07&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+## 🏆 GitHub Stats
+![Shamanth's Github stats](https://github-readme-stats.vercel.app/api?username=ShreyasBaasri07&count_private=true&theme=tokyonight)
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBaasri07&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
