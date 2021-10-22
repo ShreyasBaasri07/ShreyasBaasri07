@@ -39,11 +39,13 @@
 
   
   
-## 🏆 GitHub Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ShreyasBaasri07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shreyas's Github Stats">
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ShreyasBaasri07&count_private=true&show_icons=true&theme=radical&line_height=33)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasBaasri07&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBaasri07&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
