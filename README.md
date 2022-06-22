@@ -4,8 +4,6 @@
 
 <b>CSE Undergrad at PES university,Bengaluru</b>
 <br>
-- 🕴 Interested in problem solving
-- 🌱 I’m currently doing Competitive Programming
 
 ### ☎️ Contact me 
 
